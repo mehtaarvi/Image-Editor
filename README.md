@@ -13,16 +13,16 @@
   </a>
   
   <a href="https://github.com/mehtaarvi/Image-Editor/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Image-Editor?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/ARVI_MEHTA/Image-Editor?label=Fork&style=social">
 
   </a>  
 </p>
 
 [![CHANNEL](https://img.shields.io/badge/ABOUT-Channel-orange?style=for-the-badge&logo=telegram)](https://t.me/ABOUT_Arvi)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![OWNER](https://img.shields.io/badge/Arvi-Mehta-red?style=flat&logo=telegram)](https://FOREVER_ANGEL_0)  [![ARVI](https://img.shields.io/badge/ARVI-Website-red?style=flat&logo=CodersRank)](https://FOREVER_ANGEL_0)  
+[![OWNER](https://img.shields.io/badge/Arvi-Mehta-red?style=flat&logo=telegram)](https://t.me/FOREVER_ANGEL_0)  [![ARVI](https://img.shields.io/badge/ARVI-Website-red?style=flat&logo=CodersRank)](https://https://t.me/FOREVER_ANGEL_0)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Image-Editor)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/mehtaarvi/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mehtaarvi/Image-Editor)
 
 
 
