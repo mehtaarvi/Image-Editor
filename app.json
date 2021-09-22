@@ -8,9 +8,9 @@
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://FOREVER_ANGEL_0",
+    "website": "https://t.me/FOREVER_ANGEL_0",
     "repository": "https://github.com/mehtaarvi/Image-Editor",
-    "success_url": "https://FOREVER_ANGEL_0",
+    "success_url": "https://t.me/FOREVER_ANGEL_0",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
