@@ -24,7 +24,12 @@
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/mehtaarvi/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mehtaarvi/Image-Editor)
 
-
+# OWNER
+* With mehtaarvi:
+<p align="center">
+   <a href = "https://t.me/FOREVER_ANGEL_0"><img src="https://telegra.ph/file/c129125f295b933263460.jpg" alt="Press to Takeoff" width="490px"></a>
+</p>
+<br>
 
 
 
