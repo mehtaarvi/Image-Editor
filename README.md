@@ -45,7 +45,7 @@ DEPLOY TO HEROKU
 
 <p align="center">
 
-   <a href = "https://heroku.com/deploy?template=https://github.com/mehtaarvi/Image-Editor"><img src="https://telegra.ph/file/473b1803bb840fbf727d8.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/mehtaarvi/Image-Editor"><img src="https://telegra.ph/file/473b1803bb840fbf727d8.jpg" alt="Press to Takeoff" width="300px"></a>
 
 </p>
 
