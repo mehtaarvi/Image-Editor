@@ -39,11 +39,20 @@
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mehtaarvi/Image-Editor)
+DEPLOY TO HEROKU
 
+* With mehtaarvi:
+
+<p align="center">
+
+   <a href = "https://heroku.com/deploy?template=https://github.com/mehtaarvi/Image-Editor"><img src="https://telegra.ph/file/473b1803bb840fbf727d8.jpg" alt="Press to Takeoff" width="490px"></a>
+
+</p>
+
+<br>
 ### Deploy in your vps
 ```sh
-git clone https://github.com/mehtaarvu/Image-Editor
+git clone https://github.com/mehtaarvi/Image-Editor
 cd Image-Editor
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
